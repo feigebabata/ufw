@@ -1,0 +1,15 @@
+{
+  "name": "com.unity.fg",
+  "displayName": "fgfw",
+  "version": "0.0.1",
+  "unity": "2018.1",
+  "unityRelease": "0a10",
+  "description": "测试.",
+  "keywords": [
+    "TextMeshPro"
+  ],
+  "category": "Text Rendering",
+  "dependencies": {
+    "com.unity.ugui": "1.0.0"
+  }
+}
