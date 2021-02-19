@@ -1,15 +1,17 @@
 {
-  "name": "com/feigebabata/ufw",
-  "displayName": "fgfw",
-  "version": "0.0.1",
-  "unity": "2018.1",
-  "unityRelease": "0a10",
-  "description": "测试.",
-  "keywords": [
-    "TextMeshPro"
-  ],
-  "category": "Text Rendering",
-  "dependencies": {
-    "com.unity.ugui": "1.0.0"
-  }
+    "name":"com.fgbbt.ufw",
+    "version":"1.0.0",
+    "displayName":"FGUFW",
+    "description":"用于unity的游戏框架",
+    "unity":"2018.4",
+    "dependencies":
+    {
+        "com.unity.ugui": "1.0.0",
+        "com.unity.addressables": "1.16.16"
+    },
+    "author":
+    {
+        "name": "feigebabata",
+        "email": "feigebabata@outlook.com"
+    }
 }
